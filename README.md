@@ -33,9 +33,11 @@
 6. Learning Akka, by Salma Khater - _To-do_
     https://www.safaribooksonline.com/library/view/learning-akka/9781784391836/
 
-7. Learning Path: Kafka, by Gwen Shapira - _To-do_
+7. Learning Path: Kafka, by Gwen Shapira
     https://www.safaribooksonline.com/library/view/learning-path-kafka/9781491988961/
-
+    https://github.com/ntnmathur/java
+    https://github.com/gwenshap/kafka-examples
+    
 8. Spark for Data Analysis in Scala, by Anatolii Kmetiuk - _To-do_
     https://www.safaribooksonline.com/library/view/spark-for-data/9781787281165/
 
